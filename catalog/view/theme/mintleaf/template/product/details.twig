@@ -1,0 +1,38 @@
+{{ header }}
+<!-- Details Container Starts -->
+<div id="product-product" class="container">
+  <ul class="breadcrumb">
+    {% for breadcrumb in breadcrumbs %}
+    <li><a href="{{ breadcrumb.href }}">{{ breadcrumb.text }}</a></li>
+    {% endfor %}
+  </ul>
+<!-- Row Starts -->  
+  <div class="row">
+    {{ column_left }}
+    {% if column_left and column_right %}
+      {% set class = 'col-sm-6' %}
+    {% elseif column_left or column_right %}
+      {% set class = 'col-sm-9' %}
+    {% else %}
+      {% set class = 'col-sm-12' %}
+    {% endif %}
+  <!-- Content Area Starts -->
+    <div id="content" class="{{ class }}">
+      {{ content_top }}
+    <!-- Nested Row Starts -->
+      <div class="row"> 
+		{% if column_left or column_right %}
+          {% set class = 'col-sm-5' %}
+        {% else %}
+          {% set class = 'col-sm-5' %}
+        {% endif %}
+		HELLO
+	  </div>
+	</div>
+  <!-- Content Area Ends -->    
+    {{ column_right }}
+  </div>
+<!-- Row Ends -->  
+</div>
+ 
+{{ footer }} 

@@ -1,0 +1,35 @@
+2019-10-25 16:16:18 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'opencart' in C:\wamp64\www\opencart\system\library\db\mysqli.php on line 7
+2019-10-25 16:16:18 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\opencart\system\library\db\mysqli.php on line 10
+2019-10-25 16:16:18 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\opencart\system\library\db\mysqli.php on line 10
+2019-10-25 16:16:18 - PHP Notice:  Undefined variable: mysql in C:\wamp64\www\opencart\install\controller\install\step_3.php on line 280
+2019-10-25 16:16:18 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\wamp64\www\opencart\install\controller\install\step_3.php on line 280
+2019-10-25 17:09:59 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp64\www\opencart\system\library\mail\mail.php on line 77
+2019-10-25 17:15:27 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp64\www\opencart\system\library\mail\mail.php on line 77
+2019-10-25 17:15:29 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp64\www\opencart\system\library\mail\mail.php on line 77
+2019-10-25 17:15:32 - PHP Notice:  Undefined index: payment_method in C:\wamp64\www\opencart\catalog\controller\extension\restapi\extension\payment\cod.php on line 10
+2019-10-25 17:15:32 - PHP Notice:  Undefined index: payment_method in C:\wamp64\www\opencart\catalog\controller\extension\restapi\extension\payment\cod.php on line 10
+2019-10-25 17:15:32 - PHP Notice:  Undefined index: payment_method in C:\wamp64\www\opencart\catalog\controller\extension\restapi\extension\payment\cod.php on line 10
+2019-10-25 17:15:33 - PHP Notice:  Undefined index: payment_method in C:\wamp64\www\opencart\catalog\controller\extension\restapi\extension\payment\cod.php on line 10
+2019-10-25 17:15:33 - PHP Notice:  Undefined index: payment_method in C:\wamp64\www\opencart\catalog\controller\extension\restapi\extension\payment\cod.php on line 10
+2019-10-25 17:15:33 - PHP Notice:  Undefined index: payment_method in C:\wamp64\www\opencart\catalog\controller\extension\restapi\extension\payment\cod.php on line 10
+2020-01-13 13:47:23 - PHP Warning:  unlink(C:/wamp64/www/opencart/system/storage/cache/cache.admin.language.1578916311): Permission denied in C:\wamp64\www\opencart\system\library\cache\file.php on line 17
+2020-01-13 13:47:23 - PHP Warning:  unlink(C:/wamp64/www/opencart/system/storage/cache/cache.information.1.1578914871): Permission denied in C:\wamp64\www\opencart\system\library\cache\file.php on line 17
+2020-01-13 13:47:23 - PHP Warning:  unlink(C:/wamp64/www/opencart/system/storage/cache/cache.store.1578916371): No such file or directory in C:\wamp64\www\opencart\system\library\cache\file.php on line 17
+2020-01-13 19:18:56 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp64\www\opencart\system\library\mail\mail.php on line 77
+2020-01-16 18:39:59 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp64\www\opencart\system\library\mail\mail.php on line 77
+2020-01-16 18:40:01 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp64\www\opencart\system\library\mail\mail.php on line 77
+2020-01-16 19:02:31 - PHP Unknown:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\opencart\system\library\d_compress\cssmin.php on line 2222
+2020-01-17 5:55:14 - PHP Notice:  Undefined variable: sort in C:\wamp64\www\opencart\catalog\controller\details\details.php on line 58
+2020-01-17 5:55:14 - PHP Notice:  Undefined variable: order in C:\wamp64\www\opencart\catalog\controller\details\details.php on line 59
+2020-01-17 5:55:37 - PHP Notice:  Undefined variable: sort in C:\wamp64\www\opencart\catalog\controller\details\details.php on line 58
+2020-01-17 5:55:37 - PHP Notice:  Undefined variable: order in C:\wamp64\www\opencart\catalog\controller\details\details.php on line 59
+2020-01-17 5:55:51 - PHP Notice:  Undefined variable: url in C:\wamp64\www\opencart\catalog\controller\details\details.php on line 31
+2020-01-17 5:55:51 - PHP Notice:  Undefined variable: sort in C:\wamp64\www\opencart\catalog\controller\details\details.php on line 41
+2020-01-17 5:55:51 - PHP Notice:  Undefined variable: order in C:\wamp64\www\opencart\catalog\controller\details\details.php on line 42
+2020-01-17 15:41:52 - PHP Notice:  Undefined variable: data in C:\wamp64\www\opencart\admin\controller\farmer\approval.php on line 14
+2020-01-17 16:01:54 - PHP Notice:  Undefined variable: url in C:\wamp64\www\opencart\admin\controller\farmer\approval.php on line 16
+2020-01-17 16:02:16 - PHP Notice:  Undefined variable: url in C:\wamp64\www\opencart\admin\controller\farmer\approval.php on line 16
+2020-01-17 16:03:55 - PHP Notice:  Undefined variable: url in C:\wamp64\www\opencart\admin\controller\farmer\approval.php on line 16
+2020-01-17 16:58:14 - PHP Notice:  Array to string conversion in C:\wamp64\www\opencart\system\library\template\Twig\Environment.php(403) : eval()'d code on line 86
+2020-01-17 16:58:14 - PHP Notice:  Array to string conversion in C:\wamp64\www\opencart\system\library\template\Twig\Environment.php(403) : eval()'d code on line 86
+2020-01-17 16:58:14 - PHP Notice:  Array to string conversion in C:\wamp64\www\opencart\system\library\template\Twig\Environment.php(403) : eval()'d code on line 86
